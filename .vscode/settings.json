@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "eslint.quiet": false,
+  "eslint.workingDirectories": ["./scripts", "./src"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}

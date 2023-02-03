@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+/docs
+/lib
+package-lock.json
+sandbox/
+sandbox*
+/src/emoji.json
