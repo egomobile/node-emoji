@@ -132,13 +132,12 @@ export function findFirst(filter: string | RegExp): IGemoji | undefined {
 }
 
 /**
- * Returns a list of all `IGemoji` items in this module.
+ * Returns a new list of all `IGemoji` items in this module.
  *
  * @example
  * ```typescript
  * import { getAll } from "@egomobile/emoji"
  *
- * const firstFaceByString = findFirst("findFirst")
  * console.log("getAll", getAll())
  * ```
  *
