@@ -1,6 +1,6 @@
 {
     "name": "@egomobile/emoji",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "Node compatible package of emojis with source from gemoji by Github.",
     "main": "lib/index.js",
     "scripts": {

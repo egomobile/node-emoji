@@ -24,3 +24,8 @@ import emoji from "@egomobile/emoji";
 
 console.log(emoji);
 ```
+
+## Documentation
+
+The API documentation can be found
+[here](https://egomobile.github.io/node-emoji/).
