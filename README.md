@@ -1,5 +1,5 @@
 [![npm](https://img.shields.io/npm/v/@egomobile/emoji.svg)](https://www.npmjs.com/package/@egomobile/emoji)
-[![last build](https://img.shields.io/github/actions/workflow/status/egomobile/node-emoji/publish.yml](https://github.com/egomobile/node-emoji/actions?query=workflow%3APublish)
+[![last build](https://img.shields.io/github/actions/workflow/status/egomobile/node-emoji/publish.yml)](https://github.com/egomobile/node-emoji/actions?query=workflow%3APublish)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/egomobile/node-emoji/pulls)
 
 # @egomobile/emoji
